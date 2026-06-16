@@ -85,7 +85,8 @@ python3 test_system.py
 |-------|------|-----|-----------|
 | **SmolLM2-135M** | 135M | 2GB | Very weak devices, fast |
 | **Gemma-3-270M** | 270M | 3–4GB | Balanced |
-| **DeepSeek-Coder-1.3B** | 1.3B | 6–8GB | Programming & logic |
+| **DeepSeek-Coder-1.3B** | 1.3B | 3–8GB | Programming & logic |
+| **DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M** | 1.3B | 4–8GB | Programming & logic & thinking ... |
 
 ### 📁 Project Structure (as on your disk)
 ```
