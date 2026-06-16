@@ -4,6 +4,7 @@
 <div align="center">
   <a href="#english">English</a> | <a href="#arabic">العربية</a>
 </div>
+<img width="1600" height="900" alt="Screenshot_2026-06-16_19_48_31" src="https://github.com/user-attachments/assets/751f027f-1a81-4657-8f27-1b914a7d540d" />
 
 ---
 
