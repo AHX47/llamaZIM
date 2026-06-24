@@ -1,1 +1,6 @@
-llama-cpp-python\nlibzim\nchromadb\nsentence-transformers\nlangchain-text-splitters\npyyaml
+llama-cpp-python
+libzim
+chromadb
+sentence-transformers
+langchain-text-splitters
+pyyaml
